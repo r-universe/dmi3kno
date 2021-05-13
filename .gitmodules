@@ -8,3 +8,4 @@
 	url = https://github.com/dmi3kno/polite
 	shallow = true
 	registered = true
+	oncran = true
